@@ -9,13 +9,24 @@ Optionally, the respective parameters can be set for each FSU individually. The 
 
 # Cite paper
 
+@INPROCEEDINGS{10278898,
 
-@INPROCEEDINGS{Blomenkamp2023EGO,
   author={Blomenkamp, Lara and Kramer, Ivanna and Bauer, Sabine and Paulus, Dietrich},
+
   booktitle={2023 International Symposium on Image and Signal Processing and Analysis (ISPA)}, 
+
   title={Efficient Generation of 3D Lumbar Spine Models: An Anatomy-Driven Approach with Limited Input Parameters}, 
+
   year={2023},
+
   volume={},
+
   number={},
+
   pages={1-6},
+
+  keywords={Solid modeling;Analytical models;Three-dimensional displays;Biological system modeling;Spine;Sociology;Signal processing;3D spine model;model generation;lumbar spine;parametric models},
+
   doi={10.1109/ISPA58351.2023.10278898}}
+
+https://ieeexplore.ieee.org/document/10278898
