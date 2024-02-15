@@ -8,3 +8,14 @@ Optionally, the respective parameters can be set for each FSU individually. The 
 ![image](https://github.com/VisSim-UniKO/3D-Lumbar-Spine-Creator/assets/127405131/cc2c15df-339a-4e92-9c7f-33ff59f94fe0)
 
 # Cite paper
+
+
+@INPROCEEDINGS{Blomenkamp2023EGO,
+  author={Blomenkamp, Lara and Kramer, Ivanna and Bauer, Sabine and Paulus, Dietrich},
+  booktitle={2023 International Symposium on Image and Signal Processing and Analysis (ISPA)}, 
+  title={Efficient Generation of 3D Lumbar Spine Models: An Anatomy-Driven Approach with Limited Input Parameters}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-6},
+  doi={10.1109/ISPA58351.2023.10278898}}
